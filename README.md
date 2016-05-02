@@ -6,7 +6,7 @@ Several resources files have to be built by mixing default content, stored in th
 
 Explanation:
 One the properties of the resx file is the 'Custom Tool'. 
-By default the field is empty and the .resx file uses the default tool provided by the Visual Studio SDK (ResXFileGenerator) to build the .resx files once the .sln compiles.
+By default the field is empty and the .resx file uses the default tool provided by the Visual Studio SDK (ResXFileGenerator. See ILSpy-ResXFileGenerator.JPG) to build the .resx files once the .sln compiles.
 
 In order to achieve what is needed the default tool to generate the .resx files have to be replaced by a custom tool.
 So, this repo is about what I did to create this tool using VS 2012 SDK.
