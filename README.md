@@ -11,7 +11,7 @@ By default the field is empty and the .resx file uses the default tool provided 
 In order to achieve what is needed the default tool to generate the .resx files have to be replaced by a custom tool.
 So, this repo is about what I did to create this tool using VS 2012 SDK.
 
-Attached a picture of the custom tool applied to a Confirmation.resx resource file.
+Included a picture (VSPlugin.JPG) of the custom tool applied to the Confirmation.resx resource file.
 
 
 
